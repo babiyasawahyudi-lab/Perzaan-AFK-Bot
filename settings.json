@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "mcGooseSMP.aternos.me:33084",
+    "port": 33084,
     "version": "1.21.1"
   },
   "position": {
